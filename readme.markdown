@@ -1,7 +1,7 @@
-# cities1000
+# cities15000
 
 This is a dataset with the latitude and longitude of all cities on planet earth
-with greater than 1000 people.
+with greater than 15000 people.
 
 You can find the original on
 [geonames.org](http://download.geonames.org/export/dump/).
@@ -10,7 +10,7 @@ You can find the original on
 
 ```
 var fs = require('fs');
-var cities = require('cities1000');
+var cities = require('cities15000');
 var lines = fs.readFileSync(cities.file, 'utf8').split('\n');
 // ...
 ```
@@ -18,7 +18,7 @@ var lines = fs.readFileSync(cities.file, 'utf8').split('\n');
 # attributes
 
 ``` js
-var cities = require('cities1000')
+var cities = require('cities15000')
 ```
 
 ## cities.file

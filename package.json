@@ -1,13 +1,13 @@
 {
-  "name": "cities1000",
+  "name": "cities15000",
   "version": "0.0.0",
-  "description": "lat/lon, names of cities with over 1000 people",
+  "description": "lat/lon, names of cities with over 15000 people",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/cities1000.git"
+    "url": "git://github.com/river-jade/cities15000.git"
   },
-  "homepage": "https://github.com/substack/cities1000",
+  "homepage": "https://github.com/river-jade/cities15000",
   "keywords": [
     "latitude",
     "longitude",
@@ -18,9 +18,8 @@
     "position"
   ],
   "author": {
-    "name": "James Halliday",
-    "email": "mail@substack.net",
-    "url": "http://substack.net"
+    "name": "River Satya",
+    "email": "river.satya@gmail.com"
   },
   "license": "MIT"
 }

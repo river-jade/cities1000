@@ -19,4 +19,4 @@ exports.fields = [
     'tz',
     'lastModified'
 ];
-exports.file = __dirname + '/cities1000.txt';
+exports.file = __dirname + '/cities15000.txt';
